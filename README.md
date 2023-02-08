@@ -1,3 +1,3 @@
-# To Do list with JavaScript
+# To Do List with JavaScript
 
 It is a simple web app using Html5, Css3 and static JavaScript HTML DOM.
